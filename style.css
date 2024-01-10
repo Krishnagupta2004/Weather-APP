@@ -20,24 +20,24 @@ body {
 }
 @media only screen and (max-width: 768px) {
     body {
-        background-image: url('https://source.unsplash.com/1080x1920/?india');
+        background-image: url('https://source.unsplash.com/1080x1920/?indian-monuments');
     }
 }
 @media only screen and (max-width: 1200px) {
     body {
-        background-image: url('https://source.unsplash.com/1200x800/?india');
+        background-image: url('https://source.unsplash.com/1200x800/?indian-monuments');
     }
 }
 
 @media only screen and (max-width: 992px) {
     body {
-        background-image: url('https://source.unsplash.com/992x600/?india');
+        background-image: url('https://source.unsplash.com/992x600/?indian-monuments');
     }
 }
 
 @media only screen and (max-width: 768px) {
     body {
-        background-image: url('https://source.unsplash.com/768x480/?india');
+        background-image: url('https://source.unsplash.com/768x480/?indian-monuments');
     }
 }
 
@@ -91,8 +91,8 @@ button:hover {
     }
 
     button {
-        height: 36px;
-        width: 36px;
+        height: 30px;
+        width: 30px;
     }
 }
 .city{
