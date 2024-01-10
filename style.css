@@ -18,29 +18,6 @@ body {
     background-image: url('https://source.unsplash.com/1600x900/?indian-monuments');
     font-size: 120%;
 }
-@media only screen and (max-width: 768px) {
-    body {
-        background-image: url('https://source.unsplash.com/1080x1920/?indian-monuments');
-    }
-}
-@media only screen and (max-width: 1200px) {
-    body {
-        background-image: url('https://source.unsplash.com/1200x800/?indian-monuments');
-    }
-}
-
-@media only screen and (max-width: 992px) {
-    body {
-        background-image: url('https://source.unsplash.com/992x600/?indian-monuments');
-    }
-}
-
-@media only screen and (max-width: 768px) {
-    body {
-        background-image: url('https://source.unsplash.com/768x480/?indian-monuments');
-    }
-}
-
 .container {
     background: #000000d0;
     color: white;
@@ -83,17 +60,6 @@ button {
 }
 button:hover {
     background: #7c7c7c6b;
-}
-@media only screen and (max-width: 768px) {
-    .search-bar {
-        padding: 0.3em 0.8em;
-        font-size: 90%;
-    }
-
-    button {
-        height: 30px;
-        width: 30px;
-    }
 }
 .city{
     margin-top: 0.5em;
